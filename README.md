@@ -1,8 +1,8 @@
 # Hello!
 
-![4rcadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true)
+![4rcadia's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true)
 
-![4rcadia's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcadi4&theme=gruvbox&show_icons=true)
+![4rcadia's most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arcadi4&theme=gruvbox&show_icons=true)
 
 [![Dev skills](https://skillicons.dev/icons?i=c,go,deno,js,ts,vue,tauri)](https://skillicons.dev)
 
