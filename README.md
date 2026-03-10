@@ -63,6 +63,25 @@ Full-stack developer & graphic designer \
 > 🍎 Yes, I am a Mac gamer, and you may call me a psychopath for that. \
 > 🍎 这个人用 Mac 打游戏，所以他很可能是个精神变态。
 
+## Featured Project <br/> 近期项目
+
+Check out <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></sub></span>, the project I'm currently working on! `lucy` is a package manager and CI/CD tool for Minecraft servers, with an elegant TUI and strong toolchain integration. \
+我最近在写 <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></s></span>，`lucy`是一个为 Minecraft 服务器设计的包管理器和 CI/CD 工具。提供精致的命令行用户界面以及强大的工具链集成功能。
+
+Star ⭐️ if you like it! \
+给个Star谢谢喵～
+
+<p align="center">
+  ↓↓↓
+  <br/><br/><br/>
+  <img
+    src="https://github.com/mclucy/lucy/blob/main/images/banner.png"
+    alt="Lucy Banner"
+    width="66.7%"
+    href="https://github.com/mclucy/lucy"
+  />
+</p>
+
 ## Blog <br/> 个人页
 
 > 🚧 Beta — still under construction. \
@@ -79,12 +98,12 @@ I <small>(will probably)</small> write about programming, design, video games, p
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Statistics"
-    width="67%"
+    width="52.5%"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Languages"
-    width="29.5%"
+    width="23%"
   />
 </div>
 
@@ -93,13 +112,13 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <img
   src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Streak"
-  width="66.7%"
+  width="76%"
 />
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Activity"
-  width="66.7%"
+  width="76%"
 />
 
 ---
@@ -108,49 +127,26 @@ I <small>(will probably)</small> write about programming, design, video games, p
     <img
       src="https://wakatime.com/share/@4rcadia/4a26951f-5d17-48f7-a787-a22fa51482fa.svg"
       alt="WakaTime Language Stats"
-      width="49.5%"
+      width="49%"
     />
     <img
       src="https://wakatime.com/share/@4rcadia/6f58e64e-287e-4ca0-a9de-9eb36b80d7a2.svg"
       alt="WakaTime Editor Stats"
-      width="49.5%"
+      width="49%"
     />
 </div>
 
----
+<br/>
 
-<div>
-  <img
-    src="https://wakatime.com/share/@4rcadia/fb3b1f26-67b9-458c-906d-2407cc06e16f.svg"
-    alt="WakaTime Coding Activity"
-  />
-</div>
+<img
+  src="https://wakatime.com/share/@4rcadia/fb3b1f26-67b9-458c-906d-2407cc06e16f.svg"
+  alt="WakaTime Coding Calendar"
+/>
 
 <br/>
 
 > *Above WakaTime stats is since Jan 18, 2026* \
 > *以上 WakaTime 数据从2026/01/18开始统计*
-
-## Featured Project <br/> 近期项目
-
-Check out <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></sub></span>, the project I'm currently working on! `lucy` is a package manager and CI/CD tool for Minecraft servers, with an elegant TUI and strong toolchain integration. \
-我最近在写 <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></s></span>，`lucy`是一个为 Minecraft 服务器设计的包管理器和 CI/CD 工具。提供精致的命令行用户界面以及强大的工具链集成功能。
-
-Star ⭐️ if you like it! \
-给个Star谢谢喵～
-
-<p align="center">
-  ↓↓↓
-  <br/><br/><br/>
-  <img
-    src="https://github.com/mclucy/lucy/blob/main/images/banner.png"
-    alt="Lucy Banner"
-    height="240"
-    href="https://github.com/mclucy/lucy"
-  />
-</p>
-
-<br/><br/><br/>
 
 ---
 
