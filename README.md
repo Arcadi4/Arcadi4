@@ -1,19 +1,42 @@
+<table>
+<tr>
+<td valign="top" width=70%">
+
 # 4rcadia
 
 > Engineering aesthetics, applied everywhere. \
-> 将一切纳入工程审美。
+> 以工程美学审视并构建一切。
+
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
+  alt=""
+  width="500"
+  height="0"
+/>
 
 Full-stack developer & graphic designer \
 全栈开发 & 平面设计
 
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=arcadi4&color=blueviolet&style=flat&label=+Views+Since+2026/03+"
-    alt="Profile View Count"
-  />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=arcadi4&color=blueviolet&style=flat&label=+Views+Since+2026/03+"
+  alt="Profile View Count"
+/>
 
-![Netease Music Card](https://github.com/Arcadi4/netease-music-card/blob/main/card.svg)
+</td>
+
+<td valign="top" align="right" width="30%">
+
+<a href="https://music.163.com/#/user/songs/rank?id=1696843520">
+  <img
+    src="https://github.com/Arcadi4/netease-music-card/blob/main/card.svg"
+    alt="Netease Music Card"
+    height="320"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## Skills <br/> 技能
 
@@ -27,7 +50,7 @@ Full-stack developer & graphic designer \
 [![Design apps](https://skillicons.dev/icons?i=ai,ps,xd,figma)](https://skillicons.dev)
 
 > 🎨 Lately I've been working mostly in Figma. \
-> 🎨 最近我基本上只用Figma了
+> 🎨 最近我基本上只用 Figma 了，Figma 真的太香了。
 
 ---
 
@@ -36,56 +59,82 @@ Full-stack developer & graphic designer \
 > ⚙️ Other tools and apps I use. \
 > ⚙️ 其他我在用的工具和软件。 \
 > 🐧 I don't use Arch, btw. \
-> 🐧 我是低低在下的Ubuntu用户。 \
+> 🐧 这个人是低低在下的 Ubuntu 用户。 \
 > 🍎 Yes, I am a Mac gamer, and you may call me a psychopath for that. \
-> 🍎 我用Mac打游戏，所以我基本上是个神经病。
+> 🍎 这个人用 Mac 打游戏，所以他很可能是个精神变态。
 
 ## Blog <br/> 个人页
 
 > 🚧 Beta — still under construction. \
-> 🚧 Beta —— 还没写完。
+> 🚧 没写完，目前是Beta。
 
-I <sup>(will probably)</sup> write about programming, design, video games, philosophy, and more. \
-我<sup>(大概会)</sup>写一些关于技术、设计、游戏、哲学的文章。
+I <small>(will probably)</small> write about programming, design, video games, philosophy, and more. \
+我<small>(大概会)</small>写一些关于技术、设计、游戏、哲学的文章。
 
 → <https://blog.arcadia.moe>
 
-## Statistics <br/> 数据
+## Coding Dynamics <br/> 代码动态
 
-<p>
+<div>
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Statistics"
-    height="180"
+    width="67%"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Languages"
-    height="180"
+    width="29.5%"
   />
-</p>
+</div>
 
 ---
 
-<p>
+<img
+  src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
+  alt="Commit Streak"
+  width="66.7%"
+/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=arcadi4&theme=gruvbox&hide_border=true"
+  alt="Commit Activity"
+  width="66.7%"
+/>
+
+---
+
+<div>
+    <img
+      src="https://wakatime.com/share/@4rcadia/4a26951f-5d17-48f7-a787-a22fa51482fa.svg"
+      alt="WakaTime Language Stats"
+      width="49.5%"
+    />
+    <img
+      src="https://wakatime.com/share/@4rcadia/6f58e64e-287e-4ca0-a9de-9eb36b80d7a2.svg"
+      alt="WakaTime Editor Stats"
+      width="49.5%"
+    />
+</div>
+
+---
+
+<div>
   <img
-    src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
-    alt="Commit Streak"
-    height="180"
+    src="https://wakatime.com/share/@4rcadia/fb3b1f26-67b9-458c-906d-2407cc06e16f.svg"
+    alt="WakaTime Coding Activity"
   />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=arcadi4&theme=gruvbox&hide_border=true"
-    alt="Commit Activity"
-    height="180"
-  />
-</p>
+</div>
+
+<br/>
+
+> *Above WakaTime stats is since Jan 18, 2026* \
+> *以上 WakaTime 数据从2026/01/18开始统计*
 
 ## Featured Project <br/> 近期项目
 
-[![Lucy Repo](https://img.shields.io/badge/GitHub-Lucy-181717?logo=github)](https://github.com/LiteTech-Dev/Lucy)
-
-Check out [`lucy`](https://github.com/LiteTech-Dev/Lucy), the project I'm currently working on! It is a package manager and CI/CD tool for Minecraft servers, with an elegant TUI and strong toolchain integration. \
-最近在写 [`lucy`](https://github.com/LiteTech-Dev/Lucy)，一个为Minecraft服务器设计的包管理器和CI/CD工具。提供精致的命令行用户界面以及强大的工具链集成功能。
+Check out <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></sub></span>, the project I'm currently working on! `lucy` is a package manager and CI/CD tool for Minecraft servers, with an elegant TUI and strong toolchain integration. \
+我最近在写 <span><sub><a href="https://github.com/mclucy/lucy"><img src="https://img.shields.io/badge/GitHub-Lucy-181717?logo=github" alt="Lucy Repo" height="16"/></a></s></span>，`lucy`是一个为 Minecraft 服务器设计的包管理器和 CI/CD 工具。提供精致的命令行用户界面以及强大的工具链集成功能。
 
 Star ⭐️ if you like it! \
 给个Star谢谢喵～
@@ -101,8 +150,15 @@ Star ⭐️ if you like it! \
   />
 </p>
 
+<br/><br/><br/>
+
 ---
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+<div align="right">
+
 > *A man who thinks he is a king is mad, a king who thinks he is a king is no less so.*  
 > — Jacques Lacan
+
+</div>
