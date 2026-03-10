@@ -13,7 +13,7 @@ Full-stack developer & graphic designer \
   />
 </p>
 
-<!-- NeteaseMusic Here -->
+![Netease Music Card](https://github.com/Arcadi4/netease-music-card/blob/main/card.svg)
 
 ## Skills <br/> 技能
 
