@@ -4,8 +4,7 @@
 
 # 4rcadia
 
-> Engineering aesthetics, applied everywhere. \
-> 以工程美学审视并构建一切。
+> Any creation can be engineered, and engineering relies on aesthetics.
 
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
@@ -28,8 +27,8 @@ Full-stack developer & graphic designer \
 
 <a href="https://music.163.com/#/user/songs/rank?id=1696843520">
   <img
-    src="https://github.com/Arcadi4/netease-music-card/blob/main/card.svg"
-    alt="Netease Music Card"
+    src="https://github.com/Arcadi4/netease-music-card/blob/svg/card.svg"
+    alt="Netease Music Card (This doesn't work on the mobile app)"
     height="320"
   />
 </a>
@@ -42,26 +41,38 @@ Full-stack developer & graphic designer \
 
 [![Dev skills](https://skillicons.dev/icons?i=c,cpp,cs,go,bash,mongodb,js,ts,vue,react,next,vercel,tailwind)](https://skillicons.dev)
 
-> 🔨 Languages and frameworks. **Go's my favourite!** \
-> 🔨 语言和框架。**加入土拨鼠神教**。
+> ### 🔨
+>
+> Languages and frameworks. **Go's my favourite!** \
+> 语言和框架。**加入土拨鼠神教**。
 
 ---
 
 [![Design apps](https://skillicons.dev/icons?i=ai,ps,xd,figma)](https://skillicons.dev)
 
-> 🎨 Lately I've been working mostly in Figma. \
-> 🎨 最近我基本上只用 Figma 了，Figma 真的太香了。
+> ### 🎨
+>
+> Lately I've been working mostly in Figma. \
+> 最近我基本上只用 Figma 了，Figma 真的太香了。
 
 ---
 
 [![Other apps](https://skillicons.dev/icons?i=apple,ubuntu,vscode,webstorm,notion,obsidian,latex,r,unity)](https://skillicons.dev)
 
-> ⚙️ Other tools and apps I use. \
-> ⚙️ 其他我在用的工具和软件。 \
-> 🐧 I don't use Arch, btw. \
-> 🐧 这个人是低低在下的 Ubuntu 用户。 \
-> 🍎 Yes, I am a Mac gamer, and you may call me a psychopath for that. \
-> 🍎 这个人用 Mac 打游戏，所以他很可能是个精神变态。
+> ### ⚙️
+>
+> Other tools and apps I use. \
+> 其他我在用的工具和软件。
+>
+> ### 🐧
+>
+> I don't use Arch, btw. \
+> 这个人是低低在下的 Ubuntu 用户。
+>
+> ### 🍎
+>
+> Yes, I am a Mac gamer, and you may call me a psychopath for that. \
+> 这个人用 Mac 打游戏，所以他很可能是个精神变态。
 
 ## Featured Project <br/> 近期项目
 
@@ -84,8 +95,10 @@ Star ⭐️ if you like it! \
 
 ## Blog <br/> 个人页
 
-> 🚧 Beta — still under construction. \
-> 🚧 没写完，目前是Beta。
+> ### 🚧
+>
+> Beta — still under construction. \
+> 没写完，目前是Beta。
 
 I <small>(will probably)</small> write about programming, design, video games, philosophy, and more. \
 我<small>(大概会)</small>写一些关于技术、设计、游戏、哲学的文章。
@@ -139,7 +152,7 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <br/>
 
 <img
-  src="https://wakatime.com/share/@4rcadia/fb3b1f26-67b9-458c-906d-2407cc06e16f.svg"
+  src="https://wakatime.com/share/@4rcadia/9f5b5e8d-4344-4bde-aac4-e694209598a9.svg"
   alt="WakaTime Coding Calendar"
 />
 
