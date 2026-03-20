@@ -11,7 +11,7 @@ Any creation can be engineered, and engineering relies on aesthetics.
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
   alt=""
-  width="660"
+  width="500"
   height="0"
 />
 
