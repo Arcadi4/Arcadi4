@@ -1,11 +1,12 @@
 <table>
 <tr>
-<td valign="top" width=75%">
+<td valign="top">
 
 # 4rcadia
 
 ```
-Any creation can be engineered, and engineering relies on aesthetics.
+Any creation can be engineered,
+and engineering relies on aesthetics.
 ```
 
 <img
@@ -25,7 +26,7 @@ code & graphic design. \
 
 </td>
 
-<td valign="top" align="right" width="25%">
+<td valign="top" align="right">
 
 <a href="https://music.163.com/#/user/songs/rank?id=1696843520">
   <img
