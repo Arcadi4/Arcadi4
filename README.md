@@ -4,17 +4,19 @@
 
 # 4rcadia
 
-> Any creation can be engineered, and engineering relies on aesthetics.
+```
+Any creation can be engineered, and engineering relies on aesthetics.
+```
 
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
   alt=""
-  width="500"
+  width="660"
   height="0"
 />
 
-Full-stack developer & graphic designer \
-全栈开发 & 平面设计
+code & graphic design. \
+代码和平面设计
 
 <img
   src="https://komarev.com/ghpvc/?username=arcadi4&color=blueviolet&style=flat&label=+Views+Since+2026/03+"
@@ -29,7 +31,7 @@ Full-stack developer & graphic designer \
   <img
     src="https://github.com/Arcadi4/netease-music-card/blob/svg/card.svg"
     alt="Netease Music Card (This doesn't work on the mobile app)"
-    height="320"
+    height="280"
   />
 </a>
 
@@ -43,8 +45,8 @@ Full-stack developer & graphic designer \
 
 > ### 🔨
 >
-> Languages and frameworks. **Go's my favourite!** \
-> 语言和框架。**加入土拨鼠神教**。
+> Languages and frameworks I know/have used.
+> 我使用的语言和框架。
 
 ---
 
@@ -52,7 +54,7 @@ Full-stack developer & graphic designer \
 
 > ### 🎨
 >
-> Lately I've been working mostly in Figma. \
+> Lately I've been working mostly in Figma. Adobe? No. \
 > 最近我基本上只用 Figma 了，Figma 真的太香了。
 
 ---
@@ -67,12 +69,12 @@ Full-stack developer & graphic designer \
 > ### 🐧
 >
 > I don't use Arch, btw. \
-> 这个人是低低在下的 Ubuntu 用户。
+> 我是低低在下的 Ubuntu 用户。
 >
 > ### 🍎
 >
 > Yes, I am a Mac gamer, and you may call me a psychopath for that. \
-> 这个人用 Mac 打游戏，所以他很可能是个精神变态。
+> 我用 macOS 打游戏，你最好小心点。
 
 ## Featured Project <br/> 近期项目
 
@@ -111,12 +113,12 @@ I <small>(will probably)</small> write about programming, design, video games, p
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Statistics"
-    width="52.5%"
+    width="59.5%"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
     alt="Languages"
-    width="23%"
+    width="26%"
   />
 </div>
 
@@ -125,13 +127,13 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <img
   src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Streak"
-  width="76%"
+  width="85%"
 />
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Activity"
-  width="76%"
+  width="85%"
 />
 
 ---
@@ -159,7 +161,7 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <br/>
 
 > *Above WakaTime stats is since Jan 18, 2026* \
-> *以上 WakaTime 数据从2026/01/18开始统计*
+> *以上 WakaTime 数据自 2026/01/18 开始统计*
 
 ---
 
