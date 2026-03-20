@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width=70%">
+<td valign="top" width=75%">
 
 # 4rcadia
 
@@ -25,13 +25,13 @@ code & graphic design. \
 
 </td>
 
-<td valign="top" align="right" width="30%">
+<td valign="top" align="right" width="25%">
 
 <a href="https://music.163.com/#/user/songs/rank?id=1696843520">
   <img
     src="https://github.com/Arcadi4/netease-music-card/blob/svg/card.svg"
     alt="Netease Music Card (This doesn't work on the mobile app)"
-    height="280"
+    height="320"
   />
 </a>
 
