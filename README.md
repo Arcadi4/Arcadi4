@@ -1,20 +1,9 @@
-<table>
-<tr>
-<td valign="top">
-
 # 4rcadia
 
 ```
 Any creation can be engineered,
 and engineering relies on aesthetics.
 ```
-
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
-  alt=""
-  width="500"
-  height="0"
-/>
 
 code & graphic design. \
 代码和平面设计
@@ -23,22 +12,6 @@ code & graphic design. \
   src="https://komarev.com/ghpvc/?username=arcadi4&color=blueviolet&style=flat&label=+Views+Since+2026/03+"
   alt="Profile View Count"
 />
-
-</td>
-
-<td valign="top" align="right">
-
-<a href="https://music.163.com/#/user/songs/rank?id=1696843520">
-  <img
-    src="https://github.com/Arcadi4/netease-music-card/blob/svg/card.svg"
-    alt="Netease Music Card (This doesn't work on the mobile app)"
-    height="320"
-  />
-</a>
-
-</td>
-</tr>
-</table>
 
 ## Skills <br/> 技能
 
