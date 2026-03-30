@@ -71,8 +71,7 @@ Star ⭐️ if you like it! \
 
 ## Blog <br/> 个人页
 
-> ### 🚧
->
+> [!WARNING]
 > Beta — still under construction. \
 > 没写完，目前是Beta。
 
