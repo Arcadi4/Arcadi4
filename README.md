@@ -15,7 +15,9 @@ code & graphic design. \
 
 ## Skills <br/> 技能
 
-[![Dev skills](https://skillicons.dev/icons?i=c,cpp,rust,go,bash,mongodb,js,ts,vue,react,next,supabase,vercel,tailwind)](https://skillicons.dev)
+[![Developer skills](https://skillicons.dev/icons?i=c,cpp,rust,go,bash,mongodb,postgresql,supabase)](https://skillicons.dev)
+<br/>
+[![Developer skills](https://skillicons.dev/icons?i=js,ts,vue,react,next,vercel,tailwind)](https://skillicons.dev)
 
 > ### 🔨
 >
