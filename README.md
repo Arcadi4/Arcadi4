@@ -137,14 +137,3 @@ I <small>(will probably)</small> write about programming, design, video games, p
 
 > *Above WakaTime stats is since Jan 18, 2026* \
 > *以上 WakaTime 数据自 2026/01/18 开始统计*
-
----
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div align="right">
-
-> *A man who thinks he is a king is mad, a king who thinks he is a king is no less so.*  
-> — Jacques Lacan
-
-</div>
