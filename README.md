@@ -71,6 +71,8 @@ I <small>(will probably)</small> write about programming, design, video games, p
 
 ### Stats <br/> 统计数据
 
+<div align="center">
+
 <div>
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=arcadi4&theme=gruvbox&show_icons=true&hide_border=true"
@@ -89,13 +91,13 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <img
   src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Streak"
-  width="85%"
+  width="70%"
 />
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Activity"
-  width="85%"
+  width="70%"
 />
 
 ---
@@ -103,12 +105,12 @@ I <small>(will probably)</small> write about programming, design, video games, p
 <img
   src="https://wakatime.com/share/@4rcadia/4a26951f-5d17-48f7-a787-a22fa51482fa.svg"
   alt="WakaTime Language Stats"
-  width="85%"
+  width="70%"
 />
 <img
   src="https://wakatime.com/share/@4rcadia/6f58e64e-287e-4ca0-a9de-9eb36b80d7a2.svg"
   alt="WakaTime Editor Stats"
-  width="85%"
+  width="70%"
 />
 
 <!-- <img
@@ -116,5 +118,7 @@ I <small>(will probably)</small> write about programming, design, video games, p
   alt="WakaTime Coding Calendar"
 /> -->
 
-> *Above WakaTime stats is since Jan 18, 2026* \
-> *以上 WakaTime 数据自 2026/01/18 开始统计*
+*Above WakaTime stats is since Jan 18, 2026 \
+以上 WakaTime 数据自 2026/01/18 开始统计*
+
+</div>
