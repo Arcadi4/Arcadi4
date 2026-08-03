@@ -88,6 +88,10 @@ I <small>(will probably)</small> write about programming, design, video games, p
 
 ---
 
+<details>
+
+<summary align=left><h4>Commit history<br/>贡献历史</h4></summary>
+
 <img
   src="https://streak-stats.demolab.com?user=arcadi4&theme=gruvbox&hide_border=true"
   alt="Commit Streak"
@@ -100,17 +104,23 @@ I <small>(will probably)</small> write about programming, design, video games, p
   width="70%"
 />
 
+</details>
+
 ---
+
+<details>
+
+<summary align=left><h4>Code time<br/>编码时长</h4></summary>
 
 <img
   src="https://wakatime.com/share/@4rcadia/4a26951f-5d17-48f7-a787-a22fa51482fa.svg"
   alt="WakaTime Language Stats"
-  width="70%"
+  width="60%"
 />
 <img
   src="https://wakatime.com/share/@4rcadia/6f58e64e-287e-4ca0-a9de-9eb36b80d7a2.svg"
   alt="WakaTime Editor Stats"
-  width="70%"
+  width="60%"
 />
 
 <!-- <img
@@ -120,5 +130,7 @@ I <small>(will probably)</small> write about programming, design, video games, p
 
 *Above WakaTime stats is since Jan 18, 2026 \
 以上 WakaTime 数据自 2026/01/18 开始统计*
+
+</details>
 
 </div>
