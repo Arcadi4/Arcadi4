@@ -21,7 +21,7 @@ Engineering is an aesthetic.
 
 [![Developer skills](https://skillicons.dev/icons?i=c,cpp,rust,go,bash,git,mongodb,postgresql,supabase)](https://skillicons.dev)
 <br/>
-[![Developer skills](https://skillicons.dev/icons?i=js,ts,vue,react,next,vercel,tailwind)](https://skillicons.dev)
+[![Developer skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,cloudflare)](https://skillicons.dev)
 
 ---
 
