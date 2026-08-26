@@ -19,9 +19,14 @@ Engineering is an aesthetic.
 > Languages and frameworks I know or have used.
 > 我使用的语言和框架。
 
-[![Developer skills](https://skillicons.dev/icons?i=c,cpp,rust,go,bash,git)](https://skillicons.dev)
+[![Developer skills](https://skillicons.dev/icons?i=c,cpp,go,bash,git)](https://skillicons.dev)
 <br/>
 [![Developer skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,cloudflare)](https://skillicons.dev)
+
+> Things I'm learning.
+> 我正在学习的技能。
+
+[![Developer skills](https://skillicons.dev/icons?i=rust,zig,haskell,ocaml)](https://skillicons.dev)
 
 ---
 
