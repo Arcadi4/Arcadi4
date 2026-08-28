@@ -23,10 +23,10 @@ Engineering is an aesthetic.
 <br/>
 [![Developer skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vercel,cloudflare)](https://skillicons.dev)
 
-> Things I'm learning.
-> 我正在学习的技能。
+> Things I'm learning (by priority).
+> 我正在学习的技能（优先级顺序）。
 
-[![Developer skills](https://skillicons.dev/icons?i=rust,zig,haskell,ocaml)](https://skillicons.dev)
+[![Developer skills](https://skillicons.dev/icons?i=rust,postgresql,zig,haskell,ocaml,solidity)](https://skillicons.dev)
 
 ---
 
