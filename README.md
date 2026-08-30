@@ -40,7 +40,7 @@ Engineering is an aesthetic.
 > Other tools and apps. \
 > 其他我在用的工具和软件。
 
-[![Other apps](https://skillicons.dev/icons?i=apple,ubuntu,vscode,webstorm,notion,obsidian,latex,r,unity)](https://skillicons.dev)
+[![Other apps](https://skillicons.dev/icons?i=apple,ubuntu,vim,vscode,webstorm,latex,r,unity)](https://skillicons.dev)
 
 ### Pinned Project <br/> 近期项目
 
